@@ -13,7 +13,8 @@ I am currently an undergraduate Data Science student at Federal University of Mi
 
 ---
 
-### 🔍 Focus & Interests
-* **Machine Learning:** Exploring predictive modeling and deep learning architectures.
-* **Social Devices:** Interested in how hardware interacts with human behavior and social connectivity.
-* **Data Engineering:** Leveraging my dev background to build efficient data pipelines.
+### 🌟 Focus & Interests
+
+<p align="center">
+  <b>Artificial Intelligence</b> • <b>Computer Vision</b> • <b>Data Engineering</b> • <b>Data Ethics</b>
+</p>
