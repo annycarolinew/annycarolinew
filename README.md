@@ -6,15 +6,15 @@ I am currently an undergraduate Data Science student at Federal University of Mi
 
 ---
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=annycarolinew&show_icons=true&theme=default"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annycarolinew&layout=compact&theme=default" width="350" />
-</p>
-
----
-
 ### 🌟 Focus & Interests
 
 <p>
   <b>Artificial Intelligence</b> • <b>Computer Vision</b> • <b>Data Engineering</b> • <b>Data Ethics</b>
+</p>
+
+---
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=annycarolinew&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annycarolinew&layout=compact&theme=default" width="350" />
 </p>
