@@ -6,8 +6,7 @@ I am currently an undergraduate Data Science student at Federal University of Mi
 
 ---
 
-### 🌟 Focus:
-<p align="left">
+### 🌟 Focus:<p align="left">
   <a href="#"><img src="https://img.shields.io/badge/Statistical_Modeling-333e48?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Data_Analysis-333e48?style=for-the-badge" /></a>
   <a href="#"><img src="https://img.shields.io/badge/EDA-333e48?style=for-the-badge" /></a>
