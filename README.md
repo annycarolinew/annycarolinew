@@ -15,6 +15,6 @@ I am currently an undergraduate Data Science student at Federal University of Mi
 
 ### 🌟 Focus & Interests
 
-<p align="center">
+<p>
   <b>Artificial Intelligence</b> • <b>Computer Vision</b> • <b>Data Engineering</b> • <b>Data Ethics</b>
 </p>
