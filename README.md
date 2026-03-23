@@ -1,4 +1,4 @@
-# Hi there, I'm Anny 👋
+# Hi there, I'm Anny 👋🏾
 
 ### 📊 Data Science Student & Former Systems Developer
 
