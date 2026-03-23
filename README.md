@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Anny 👋
 
-<!--
-**annycarolinew/annycarolinew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annycarolinew&hide_progress=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=annycarolinew&show_icons=true&theme=default#gh-light-mode-only" />
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Data Science Student & Former Systems Developer
+
+I am currently an undergraduate Data Science student at Federal University of Minas Gerais (UFMG). With a background in technical system development at Technical College of the Federal University of Minas Gerais, I bridge the gap between building robust software and extracting actionable insights from data.
+
+---
+
+### 🔍 Focus & Interests
+* **Machine Learning:** Exploring predictive modeling and deep learning architectures.
+* **Social Devices:** Interested in how hardware interacts with human behavior and social connectivity.
+* **Data Engineering:** Leveraging my dev background to build efficient data pipelines.
