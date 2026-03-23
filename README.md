@@ -1,6 +1,6 @@
 # Hi there, I'm Anny 👋🏾
 
-### 📊 Data Science Student & Former Systems Developer
+### 📊 Data Science Student & Technician in Systems Development
 
 I am currently an undergraduate Data Science student at Federal University of Minas Gerais (UFMG). With a background in technical system development at Technical College of the Federal University of Minas Gerais, I bridge the gap between building robust software and extracting actionable insights from data.
 
