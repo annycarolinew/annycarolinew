@@ -8,10 +8,10 @@ I am currently an undergraduate Data Science student at Federal University of Mi
 
 ### 🌟 Focus:
 <p align="left">
-  <img src="https://img.shields.io/badge/Statistical_Modeling-333e48?style=for-the-badge" />
+  <a href="#"><img src="https://img.shields.io/badge/Statistical_Modeling-333e48?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data_Analysis-333e48?style=for-the-badge" />
   <img src="https://img.shields.io/badge/EDA-333e48?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Engineering-333e48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Engineering-333e48?style=for-the-badge" /></a>
 </p>
 
 ### 🔭 Learning:
