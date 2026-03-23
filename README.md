@@ -8,17 +8,17 @@ I am currently an undergraduate Data Science student at Federal University of Mi
 
 ### 🌟 Focus:
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Statistical_Modeling-B0C4DE?style=for-the-badge" border-radius=5px/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Data_Analysis-B0C4DE?style=for-the-badge" border-radius=5px/></a>
-  <a href="#"><img src="https://img.shields.io/badge/EDA-B0C4DE?style=for-the-badge" border-radius=5px/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Data_Engineering-B0C4DE?style=for-the-badge" border-radius=5px/></a>
+  <img src="https://img.shields.io/badge/Statistical_Modeling-333e48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Analysis-333e48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/EDA-333e48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Engineering-333e48?style=for-the-badge" />
 </p>
 
 ### 🔭 Learning:
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Artificial_Intelligence-B0C4DE?style=for-the-badge" border-radius=5px/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Computer_Vision-B0C4DE?style=for-the-badge" border-radius=5px/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Data_Ethics-B0C4DE?style=for-the-badge" border-radius=5px/></a>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-333e48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-333e48?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Ethics-333e48?style=for-the-badge" />
 </p>
 
 ---
