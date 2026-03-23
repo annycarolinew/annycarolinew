@@ -9,10 +9,10 @@ I am currently an undergraduate Data Science student at Federal University of Mi
 ### 🌟 Focus & Interests
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-87CEEB?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer_Vision-4682B4?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Engineering-ADD8E6?style=for-the-badge&logo=apache-airflow&logoColor=black" />
-  <img src="https://img.shields.io/badge/Data_Ethics-B0C4DE?style=for-the-badge&logo=google-cloud&logoColor=black" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-87CEEB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer_Vision-4682B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Engineering-ADD8E6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Ethics-B0C4DE?style=for-the-badge" />
 </p>
 
 ---
