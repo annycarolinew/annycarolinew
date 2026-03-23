@@ -13,6 +13,8 @@ I am currently an undergraduate Data Science student at Federal University of Mi
   <img src="https://img.shields.io/badge/Computer_Vision-4682B4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data_Engineering-ADD8E6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data_Ethics-B0C4DE?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-B0E0E6?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Computer_Vision-ADD8E6?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Engineering-B0C4DE?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Data_Ethics-87CEEB?style=flat-square&logoColor=white" />
 </p>
 
 ---
