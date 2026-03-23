@@ -6,7 +6,7 @@ I am currently an undergraduate Data Science student at Federal University of Mi
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=annycarolinew&show_icons=true&theme=default" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annycarolinew&layout=compact&theme=default" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annycarolinew&layout=compact&theme=default" height="210" />
 </p>
       
 ### 🔍 Focus & Interests
